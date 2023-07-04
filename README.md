@@ -37,9 +37,6 @@ At the end of the course, a project was assigned that combines the knowledge and
     The game includes squares for "lose a turn" and "bankrupt."
     The game continues until the entire phrase is revealed or a player guesses the complete phrase correctly.
 
-Documentation
-
-To understand and implement the game project, please refer to the project description and rules mentioned above. There is no specific external documentation required for this project.
 Contact
 
 If you have any questions or suggestions regarding this repository or the content covered in the course, please feel free to reach out.
